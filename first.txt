@@ -1,4 +1,4 @@
 Gitの練習をしていきます。
-やっほー
+基本的なコマンド
 ・git add
 ・git commit
